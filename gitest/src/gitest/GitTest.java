@@ -2,6 +2,6 @@ package gitest;
 
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("Git is funx");
+        System.out.println("Git is WEIRD");
       }
 }
